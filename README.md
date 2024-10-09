@@ -1,19 +1,46 @@
 # Список телеграмм ботов
 
-Программа генерирует пароль трех видов сложности и сохраняет с коментариями.
-Регистрируйтесь с новыми паролями на сайтах и сохраняйте их в памяти бота.
-
-
+Список моих телеграмм ботов
 
 
 ## Автор
 
-- [@Купинов Вадим ](https://t.me/password_save_bot)
+- [@Купинов Вадим ](https://t.me/Createbot314)
 
 
 ## Демонстрация работы
 
+https://t.me/Serofim_anketa_bot
+
 https://t.me/password_save_bot
+
+https://t.me/orenlkip_bot
+
+https://t.me/main314_bot
+
+https://t.me/pdd314_bot
+
+https://t.me/orenlkip_bot
+
+https://t.me/password_save_bot
+
+https://t.me/audiobooks_314_bot
+
+https://t.me/poker314_bot
+
+https://t.me/chess_123bot
+
+https://t.me/cripta314_bot
+
+https://t.me/law_help_bot
+
+https://t.me/TemplateIzBot
+
+https://t.me/checkpoints_123bot
+
+https://t.me/lunolet_314_bot
+
+
 
 
 <div id="header" align="center">
@@ -21,7 +48,6 @@ https://t.me/password_save_bot
 </div>
 
 
-Список моих ботов
 
 
-https://t.me/orenlkip_bot
+

@@ -40,7 +40,7 @@ https://t.me/checkpoints_123bot
 
 https://t.me/lunolet_314_bot
 
-## 🚀 About Me
+## 🚀 Обо мне
 	Делаю программы на python
 	Делаю программы на 1С Предприятие
 
@@ -51,7 +51,7 @@ https://t.me/lunolet_314_bot
 </div>
 
 
-# Hi, I'm Katherine! 👋
+# Привет, я Вадим! 👋
 ## 🔗 Links
 [![Сайт](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![ВКонтакте](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)

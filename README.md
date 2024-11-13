@@ -51,6 +51,18 @@ https://t.me/lunolet_314_bot
 </div>
 
 
+<BR>
+<BR>
+<BR>
+<BR>
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnMzcW1xY3p0ajRqYnZ3aDltejFuY3B6ZzFtbmgxOTA3OGhxNWh6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hfhJUK0ABJIyxZNRPB/giphy.gif" width="100"/>
+</div>
+
+
+
+
 # Привет, я Вадим! 👋
 ## 🔗 Links
 

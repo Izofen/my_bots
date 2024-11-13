@@ -54,11 +54,11 @@ https://t.me/lunolet_314_bot
 # Привет, я Вадим! 👋
 ## 🔗 Links
 [![Сайт](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![ВКонтакте](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![ВКонтакте](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-1%D0%A1-brightgreen?style=flat&logo=appveyor&logoColor=violet&labelColor=abcdef&color=fedcba)](https://vk.com/3dot14)
 [![Телеграмм](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Other Common Github Profile Sections
+## Другие распространенные разделы профиля на Github
 👩‍💻 В настоящее время я работаю над... https://t.me/audiobooks_314_bot
 
 🧠 В настоящее время я учусь...

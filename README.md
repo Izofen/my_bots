@@ -43,8 +43,8 @@
 
 
 
-[![Телеграмм](https://img.shields.io/badge/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%234682B4?style=for-the-badge&logo=telegram&logoColor=#FFFF00&label=&labelColor=&color=)](https://t.me/a123_master) Вадим
-[![ВКонтакте](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%23008000?style=for-the-badge&logo=telegram&logoColor=#FFFF00&label=&labelColor=&color=)](https://vk.com/3dot14)    Привет
+[![Телеграмм](https://img.shields.io/badge/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%234682B4?style=for-the-badge&logo=telegram&logoColor=#FFFF00&label=&labelColor=&color=)](https://t.me/a123_master)
+[![ВКонтакте](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%23008000?style=for-the-badge&logo=telegram&logoColor=#FFFF00&label=&labelColor=&color=)](https://vk.com/3dot14)   
 
 
 

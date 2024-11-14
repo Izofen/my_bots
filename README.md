@@ -61,17 +61,7 @@ https://t.me/lunolet_314_bot
 </div>
 
 
-
-
-# Привет, я Вадим! 👋
-## 🔗 Links
-
-[![ВКонтакте](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-7A2BE1?style=for-the-badge&logo=coze&logoColor=violet&labelColor=abcdef&color=%239ACD32)](https://vk.com/3dot14)
-[![Телеграмм](https://img.shields.io/badge/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-7A2BE1?style=for-the-badge&logo=telegram&logoColor=violet&labelColor=abcdef&color=0000FF)](https://t.me/a123_master)
-
-
-
-# Привет, я Вадим! 👋
+# Мои контакты 👋
 
 
 [![Телеграмм](https://img.shields.io/badge/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%234682B4?style=for-the-badge&logo=telegram&logoColor=#FFFF00&label=&labelColor=&color=)](https://t.me/a123_master)

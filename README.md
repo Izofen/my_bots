@@ -70,6 +70,7 @@ https://t.me/lunolet_314_bot
 [![Телеграмм](https://img.shields.io/badge/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-7A2BE1?style=for-the-badge&logo=telegram&logoColor=violet&labelColor=abcdef&color=0000FF)](https://t.me/a123_master)
 
 [![Телеграмм](https://img.shields.io/badge/%D0%92%D0%B0%D0%B4%D0%B8%D0%BC-%D0%9A%D1%83%D0%BF%D0%B8%D0%BD%D0%BE%D0%B2-%23FFFF00)](https://t.me/a123_master)
+[![Телеграмм](https://img.shields.io/badge/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA-%D0%A1%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82-%23FFFF00)](https://t.me/a123_master)
 
 
 
